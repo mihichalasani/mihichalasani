@@ -9,7 +9,7 @@ I am a Computer Science student at Northeastern University with an interest in s
 
 ## Technologies and Tools
 <img width="272" height="185" alt="image" src="https://github.com/user-attachments/assets/692d3fc9-4852-480f-b05c-2ffff7f0d277" />
-
+<img width="40" height="60" alt="image" src="https://github.com/user-attachments/assets/a87607e1-f021-4074-9f02-3942d4116c87" />
 
 Languages: Java, Python, JavaScript, C++, HTML/CSS
 Frameworks & Tools: Git, GitHub, Node.js, React, LaTeX
