@@ -13,6 +13,8 @@ I am a Computer Science student at Northeastern University with an interest in s
 <img height="40" src="https://github.com/user-attachments/assets/61086c6c-9c0e-4c17-8272-c3973a7dd2ef" />
 <img height="40" src="https://github.com/user-attachments/assets/5b827dea-6c08-4130-aa94-536b8227adf8" />
 <img height="40" src="https://github.com/user-attachments/assets/76776d45-95c3-434f-9b64-37651bab4afe" />
+<img height="40" src="https://github.com/user-attachments/assets/3160cfd8-6172-4211-bb32-572e8e28c36f" />
+<img height="40" src="https://github.com/user-attachments/assets/c7cfd205-a18f-4d97-b618-130dc36ab7b2" />
 
 
 Languages: Java, Python, JavaScript, C++, HTML/CSS
