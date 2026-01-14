@@ -1,37 +1,34 @@
-## Hi there! 👋 I'm Mihika Chalasani
+# Hey there! I'm Mihika! 👋
 
-<!--
-Mihika Chalasani
-Class of 2028 at Northeastern University
--->
-## About me
-I am a Computer Science student at Northeastern University with an interest in software development, design, problem-solving, and building practical, user-focused applications. I enjoy working across the stack and continuously improving my technical and collaborative skills through coursework and personal projects.
+I'm a Computer Science major at Northeastern University with a concentration in Artificial Intelligence. I'm interested in full-stack development and AI/Deep Learning.
 
-## Technologies and Tools
-<img height="60" src="https://github.com/user-attachments/assets/a87607e1-f021-4074-9f02-3942d4116c87" />
-<img height="60" src="https://github.com/user-attachments/assets/ecadffe2-7f84-4bd4-8516-f945d8677045" />
-<img height="60" src="https://github.com/user-attachments/assets/61086c6c-9c0e-4c17-8272-c3973a7dd2ef" />
-<img height="60" src="https://github.com/user-attachments/assets/5b827dea-6c08-4130-aa94-536b8227adf8" />
-<img height="60" src="https://github.com/user-attachments/assets/76776d45-95c3-434f-9b64-37651bab4afe" />
-<img height="60" src="https://github.com/user-attachments/assets/17a2ed75-32c9-467d-8167-047b075d7853" />
-<img height="60" src="https://github.com/user-attachments/assets/c7cfd205-a18f-4d97-b618-130dc36ab7b2" />
+---
 
+## 🛠️ Skills & Technologies
 
-Languages: Java, Python, JavaScript, C++, HTML/CSS
+#### Languages
+Python, C, C++, Java, JavaScript, React, HTML, CSS
 
-Frameworks & Tools: Git, GitHub, Node.js, React, LaTeX
+#### Libraries
+NumPy, Pandas, PyTorch, Seaborn, Matplotlib, scikit-learn, Hugging Face Transformers
 
-Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development
+#### Tools
+Git, Docker, VS Code, Figma, Claude Code, OpenAI Codex, Gemini CLI, OpenCode, Cursor, Node.js, PostgreSQL
 
-## Interests
+---
+
+## 🎯 Interests
+
+#### 🤖 AI Post-Training
+Aligning and fine-tuning LLMs through RLHF, DPO, and preference optimization to make models safer, more helpful, and better at following instructions.
 
 
+#### 🌐 Full Stack Development
+Building end-to-end applications from database to UI, handling both server-side logic and client-facing interfaces.
 
-## Experience
 
-
-
-Notable Projects
+#### 🎨 Web Development & Design Engineering
+Crafting responsive, visually polished web experiences with a focus on modern UI/UX, accessibility, and pixel-perfect design implementation.
 
 Let’s Connect!
 
