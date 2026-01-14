@@ -5,7 +5,7 @@ Mihika Chalasani
 Class of 2028 at Northeastern University
 -->
 ## About me
-I am a Computer Science student at Northeastern University with an interest in software development, problem-solving, and building practical, user-focused applications. I enjoy working across the stack and continuously improving my technical and collaborative skills through coursework and personal projects.
+I am a Computer Science student at Northeastern University with an interest in software development, design, problem-solving, and building practical, user-focused applications. I enjoy working across the stack and continuously improving my technical and collaborative skills through coursework and personal projects.
 
 ## Technologies and Tools
 <img height="60" src="https://github.com/user-attachments/assets/a87607e1-f021-4074-9f02-3942d4116c87" />
@@ -18,15 +18,23 @@ I am a Computer Science student at Northeastern University with an interest in s
 
 
 Languages: Java, Python, JavaScript, C++, HTML/CSS
+
 Frameworks & Tools: Git, GitHub, Node.js, React, LaTeX
+
 Concepts: Data Structures, Algorithms, Object-Oriented Programming, Full-Stack Development
 
-Interests
+## Interests
 
-Experience
+
+
+## Experience
+
+
 
 Notable Projects
 
 Let’s Connect!
+
 LinkedIn: linkedin.com/in/mihikachalasani/
+
 Email: chalasani.m@northeastern.edu
