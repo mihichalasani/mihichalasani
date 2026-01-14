@@ -32,6 +32,6 @@ Crafting responsive, visually polished web experiences with a focus on modern UI
 
 Let’s Connect!
 
-LinkedIn: linkedin.com/in/mihikachalasani/
+LinkedIn: [linkedin.com/in/mihikachalasani](https://linkedin.com/in/mihikachalasani/)
 
 Email: chalasani.m@northeastern.edu
